@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning SQL
 - 💬 Ask me about stack overflow
 - 📫 How to reach me: sakarebruu@gmail.com
-- 😄 Pronouns: you/you
