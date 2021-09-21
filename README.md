@@ -43,4 +43,6 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) 
 
+![ebru's github stats](https://github-readme-stats.vercel.app/api?username=ebrusakar&show_icons=true)
+
 
