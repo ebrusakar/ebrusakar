@@ -40,8 +40,7 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Visual Studio Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) 
 
-| <a href="https://github.com/ebrusakar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ebrusakar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ebru's github stats" /></a> | <a href="https://github.com/ebrusakar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrusakar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ebrusakar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ebrusakar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ebru's github stats" /></a> | <a href="https://github.com/ebrusakar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrusakar&hide=jupyter%20notebook&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
 
 
