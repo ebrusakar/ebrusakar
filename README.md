@@ -10,19 +10,16 @@
 <a href="https://www.hackerrank.com/sakarebruu">
   <img align="left" alt="Ebru's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://www.kaggle.com/ebruakar">
-  <img align="left" alt="Ebru's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-- 🔭 I’m currently working on **my future**
+- 🔭 I’m currently working on **my future**.
 
-- 🌱 I’m currently learning **Python, PostgreSQL**
+- 🌱 I’m currently learning **Python, PostgreSQL**.
 
-- 💬 Ask me about **stack overflow**
+- 💬 Ask me about **stack overflow**.
 
-- 📫 How to reach me **sakarebruu@gmail.com**
+- 📫 How to reach me **sakarebruu@gmail.com**.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -43,4 +40,8 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Visual Studio Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) 
 
-![ebru's github stats](https://github-readme-stats.vercel.app/api?username=ebrusakar&show_icons=true)
+| <a href="https://github.com/ebrusakar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ebrusakar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ebru's github stats" /></a> | <a href="https://github.com/ebrusakar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrusakar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+
