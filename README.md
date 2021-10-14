@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **my future**.
 
-- 🌱 I’m currently learning **Python, PostgreSQL**.
+- 🌱 I’m currently learning **PostgreSQL**.
 
 - 💬 Ask me about **stack overflow**.
 
@@ -25,7 +25,6 @@
 
 - 💻 &nbsp;
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-  ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
   ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)  
