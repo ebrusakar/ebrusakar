@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ebru<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">A passionate data analyst from Earth</h3>
+<h3 align="center">A passionate data scientist from Earth</h3>
 
 <a href="https://www.linkedin.com/in/ebru-şakar/">
   <img align="left" alt="Ebru's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
