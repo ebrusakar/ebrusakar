@@ -10,6 +10,9 @@
 <a href="https://www.hackerrank.com/sakarebruu">
   <img align="left" alt="Ebru's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+<a href="https://www.kaggle.com/ebruakar">
+  <img align="left" alt="Ebru's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
