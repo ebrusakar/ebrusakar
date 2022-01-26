@@ -16,7 +16,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-- 🔭 I’m currently working on **my future**.
+- 🔭 I’m currently working on **data analytics with Python and SQL**.
 
 - 🌱 I’m currently learning **MsSQL**.
 
