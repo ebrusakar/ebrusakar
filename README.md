@@ -18,8 +18,6 @@
 
 - 🔭 I’m currently working on **data analytics with Python and SQL**.
 
-- 🌱 I’m currently learning **MsSQL**.
-
 - 💬 Ask me about **stack overflow**.
 
 - 📫 How to reach me **sakarebruu@gmail.com**.
