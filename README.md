@@ -18,8 +18,6 @@
 
 - 🔭 I’m currently working on **data analytics with Python and SQL**.
 
-- 💬 Ask me about **stack overflow**.
-
 - 📫 How to reach me **sakarebruu@gmail.com**.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -34,6 +32,7 @@
 - 🔧 &nbsp;
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Visual Studio Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) 
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 | <a href="https://github.com/ebrusakar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ebrusakar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ebru's github stats" /></a> | <a href="https://github.com/ebrusakar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrusakar&hide=jupyter%20notebook&langs_count=5&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
