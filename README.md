@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ebru :wave: </h1>
 <h3 align="center">A passionate data scientist from Earth</h3>
 
-<a href="https://www.linkedin.com/in/ebru-şakar/">
+<a href="https://www.linkedin.com/in/ebru-sakar/">
   <img align="left" alt="Ebru's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ebrusakar">
