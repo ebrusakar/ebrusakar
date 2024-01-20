@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **data analytics with Python and SQL**.
 
-- 📫 How to reach me **sakarebruu@gmail.com**.
+- 📫 How to reach me **https://www.linkedin.com/in/ebru-sakar/**.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
